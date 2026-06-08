@@ -46,8 +46,7 @@ Currently  : Working on IVR automation with Copilot Studio @ VJ Tech Consulting
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aj-sharma7274&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj-sharma7274&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img src="https://streak-stats.demolab.com/?user=aj-sharma7274&theme=tokyonight&hide_border=true" width="55%"/>
 </p>
 
 ---
